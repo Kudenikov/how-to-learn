@@ -167,6 +167,7 @@ div {
   justify-content: space-between;
   z-index: 1;
   margin: 0 auto 100px;
+  padding: 0;
 }
 
 .table__cell {
@@ -240,6 +241,7 @@ div {
 
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: cover;
   width: 877px;
   height: 877px;
   position: absolute;
